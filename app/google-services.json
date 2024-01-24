@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254444525679",
+    "firebase_url": "https://chologhuri-4a958-default-rtdb.firebaseio.com",
+    "project_id": "chologhuri-4a958",
+    "storage_bucket": "chologhuri-4a958.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254444525679:android:b014747144bb9c7042159a",
+        "android_client_info": {
+          "package_name": "com.example.chologhuri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254444525679-j8mjdu0duo1gle62n2tua8u0neoo9uh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZqsKhHOKiaEN4Nq4n7DxagBdnvhwG60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254444525679-j8mjdu0duo1gle62n2tua8u0neoo9uh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
